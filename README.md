@@ -100,10 +100,6 @@ dtype: int64
 
 You can run the code snippets in [Google Colab](https://colab.research.google.com/) or locally after installing required packages.
 
-## License
-
-MIT License
-
 ## Author
 
 namrataG01
