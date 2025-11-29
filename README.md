@@ -91,10 +91,6 @@ dtype: int64
 - Python 3.x
 - pandas
 - numpy
-- matplotlib
-- seaborn
-- statsmodels
-- scikit-learn
 
 ## Usage
 
